@@ -1,2 +1,18 @@
-# Move-It
-Welcome to our website, where we are on a mission to provide exceptional moving services to customers. As a startup, we believe that moving doesn't have to be stressful or complicated, and we are passionate about making the process as seamless and enjoyable as possible.
+# 🏠 Move-It
+
+A responsive House Moving website built using **Bootstrap**, designed to showcase moving services and provide a clean user interface for visitors.  
+Perfect for practicing front-end design and responsive layouts with Bootstrap.
+
+### 🚀 Live Demo
+https://devanand-official.github.io/Move-It/
+
+### 🔧 Features:
+- Fully responsive design for mobile and desktop
+- Sections for services, about, contact, and testimonials
+- Modern and clean layout using Bootstrap components
+- Easy to customize for other businesses
+
+### 🛠️ Technologies Used:
+- HTML
+- CSS
+- Bootstrap
