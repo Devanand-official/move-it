@@ -1,10 +1,10 @@
-# 🏠 Move-It
+# 🚚 Move-It
 
 A responsive House Moving website built using **Bootstrap**, designed to showcase moving services and provide a clean user interface for visitors.  
 Perfect for practicing front-end design and responsive layouts with Bootstrap.
 
 ### 🚀 Live Demo
-https://devanand-official.github.io/Move-It/
+https://devanand.is-a.dev/move-it/
 
 ### 🔧 Features:
 - Fully responsive design for mobile and desktop
